@@ -31,7 +31,7 @@ Provide the following information:
 ## Example
 
 For input "Spotify":
-1. WebSearch: "Spotify official website" → Find domain `spotify.com`
+1. WebSearch: "Spotify official website" â Find domain `spotify.com`
 2. WebFetch: Access `https://brandfetch.com/spotify.com`
 3. Extract and report available logo assets
 
@@ -41,4 +41,4 @@ For input "Spotify":
 - If WebSearch returns multiple domains, choose the most authoritative one (usually .com)
 - If Brandfetch doesn't have the brand, try alternative domain extensions (.io, .co, .org)
 - Report if a brand is not found on Brandfetch
-- Provide alternative suggestions if the exact brand cannot be found
+- Provide alternative suggestions if the exact brand cannot be found.
